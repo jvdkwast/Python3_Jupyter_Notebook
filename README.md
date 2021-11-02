@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvdkwast/Python3_Jupyter_Notebook/french?labpath=PythonIntro_FR.ipynb)
+
 Une Introduction au Scriptage avec Python 3
 
 Ce Jupyter Notebook a été développé sur la base de "A Beginner's Python Tutorial" par Steven Thurlow. Le materiel original a été adapté à Python 3.
